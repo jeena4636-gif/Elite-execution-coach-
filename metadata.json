@@ -1,0 +1,6 @@
+{
+  "name": "Elite Execution Coach",
+  "description": "A high-performance AI coach that cuts through procrastination with ruthless, time-bound execution commands.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
